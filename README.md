@@ -1,0 +1,2 @@
+# ming
+personal_project
